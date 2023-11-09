@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\ConsoleApp2\bin\Debug\net6.0\Dziedziczenie_Osoby.exe
+C:\Users\Student\Desktop\ConsoleApp2\bin\Debug\net6.0\Dziedziczenie_Osoby.deps.json
+C:\Users\Student\Desktop\ConsoleApp2\bin\Debug\net6.0\Dziedziczenie_Osoby.runtimeconfig.json
+C:\Users\Student\Desktop\ConsoleApp2\bin\Debug\net6.0\Dziedziczenie_Osoby.dll
+C:\Users\Student\Desktop\ConsoleApp2\bin\Debug\net6.0\Dziedziczenie_Osoby.pdb
+C:\Users\Student\Desktop\ConsoleApp2\obj\Debug\net6.0\Dziedziczenie_Osoby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\ConsoleApp2\obj\Debug\net6.0\Dziedziczenie_Osoby.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\ConsoleApp2\obj\Debug\net6.0\Dziedziczenie_Osoby.AssemblyInfo.cs
+C:\Users\Student\Desktop\ConsoleApp2\obj\Debug\net6.0\Dziedziczenie_Osoby.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ConsoleApp2\obj\Debug\net6.0\Dziedziczenie_Osoby.dll
+C:\Users\Student\Desktop\ConsoleApp2\obj\Debug\net6.0\refint\Dziedziczenie_Osoby.dll
+C:\Users\Student\Desktop\ConsoleApp2\obj\Debug\net6.0\Dziedziczenie_Osoby.pdb
+C:\Users\Student\Desktop\ConsoleApp2\obj\Debug\net6.0\Dziedziczenie_Osoby.genruntimeconfig.cache
+C:\Users\Student\Desktop\ConsoleApp2\obj\Debug\net6.0\ref\Dziedziczenie_Osoby.dll
